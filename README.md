@@ -7,6 +7,6 @@ To sucessfully deploy this collection you'll need to have the following tools pr
   -Yarn
   -Node.js
 
-Check the final outcome of this project here: https://www.solaneyes.com/address/F9zMGoa8kC8uipWHafR61s2oif7ECedMKvrGFT7dBxY3?cluster=devnet
+Check the deployed Candy Machine: https://www.solaneyes.com/address/F9zMGoa8kC8uipWHafR61s2oif7ECedMKvrGFT7dBxY3?cluster=devnet
 
-For a detailed step-by-step deploying check my article:
+A detailed step-by-step deploying guide that I wrote: https://medium.com/@miguel.canas.304/creating-and-deploying-a-solana-nft-collection-using-a-candy-machine-my-first-experience-working-f8efe77dae9c
