@@ -1,6 +1,7 @@
 # A-Taste-of-India-Solana-NFT-Collection
 This directory contains all the files I needed to deploy my first solana nft collection, built up on photos from the last six months I've been living in India.
 To sucessfully deploy this collection you'll need to have the following tools previously installed in your laptop:
+
   -Metaplex Sugar
   -Solana CLI
   -Phantom Wallet
