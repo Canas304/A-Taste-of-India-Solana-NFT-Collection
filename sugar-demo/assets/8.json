@@ -1,0 +1,27 @@
+{
+  "name": "Nineth Photo",
+  "symbol": "PTIN",
+  "description": "Collection of 10 photos from the months I'm living in rural Maharashtra on the blockchain. This is the photo number nine.",
+  "image": "8.jpg",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "8",
+      "date created": "2024-02-22",
+      "creator": "Miguel Canas",
+      "tags": ["photo", "travelling", "India"],
+      "provenance": "Verified authentic",
+      "supply limit": 1,
+      "rights_holder": "Miguel Canas",
+      "blockchain_platform": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "8.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}

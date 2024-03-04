@@ -1,0 +1,27 @@
+{
+  "name": "Tenth Photo",
+  "symbol": "PTIN",
+  "description": "Collection of 10 photos from the months I'm living in rural Maharashtra on the blockchain. This is the photo number ten.",
+  "image": "9.jpg",
+  "attributes": [
+    {
+      "trait_type": "Image",
+      "value": "9",
+      "date created": "2024-02-22",
+      "creator": "Miguel Canas",
+      "tags": ["photo", "travelling", "India"],
+      "provenance": "Verified authentic",
+      "supply limit": 1,
+      "rights_holder": "Miguel Canas",
+      "blockchain_platform": "Solana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.jpg",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+}
